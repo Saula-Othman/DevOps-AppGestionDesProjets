@@ -64,7 +64,7 @@ Avant de lancer le projet, vérifier que les outils suivants sont installés :
 
 ---
 
-## 🗄️ Configuration de la base de données
+## 🗄️ Configuration de la base de donnéess
 
 Le backend se connecte à une base de données **MySQL**.  
 Les paramètres de connexion se trouvent dans `backend/src/main/resources/application.properties` :
