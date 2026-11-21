@@ -11,7 +11,7 @@ L'objectif principal est de permettre aux étudiants de :
 
 ---
 
-## 📁 Structure du projet
+## 📁 Structure du projet...
 
 ```
 DevOps-AppGestionDesProjets/
